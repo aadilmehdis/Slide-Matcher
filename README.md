@@ -24,7 +24,7 @@ Digital Signal Analysis & Applications Project | Spring 2019
   ```
 
 ## Method
-Takes frames from a specified directory and finds its best match from slides by performing template matching using OpenCV
+Takes frames from a specified directory and finds its best match from slides by performing template matching using OpenCV. Uses classical Computer Vision algorithms without any learning.
 
 ## Output
 Saves to `pred_output.log` by default. Printed on the terminal by default.
